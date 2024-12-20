@@ -17,7 +17,7 @@ export default function DonationPage() {
   
   const campaignData = {
     goalAmount: 1000,
-    currentAmount: 500,
+    currentAmount: 15,
     currency: 'USD'
   };
 
